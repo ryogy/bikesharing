@@ -6,9 +6,9 @@ The purpose of this analysis was to analyze data from NYC Citi Bike and create v
 
 ## Results
 
-```none
+
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/robert.yokabaskas/viz/CitiBikeStory_16381451253890/CitiBike)
-```
+
 
 ### Gender Breakdown
 
